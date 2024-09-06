@@ -12,3 +12,6 @@
 **TypeScript:** Geliştirme deneyimini iyileştirmek ve güçlü tip denetimi sağlamak için.
 **TanStack Query:** API veri yönetimi ve önbelleğe alma işlemleri için.
 **Axios:** API çağrıları yapmak için.
+
+
+![shoesApp_V1](https://github.com/user-attachments/assets/9e3806e9-ae2a-4620-9162-4dfae8582b80)
